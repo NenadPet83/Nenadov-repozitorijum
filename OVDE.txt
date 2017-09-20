@@ -1,0 +1,70 @@
+Ovde cu da ti pisem uputstva, da ne idem na fb svaki cas.
+PRvo cemo da kreiramo repozitorijum, malo da ti pokazem sta mozes da radis tu.
+Pa cemo da kloniramo postojeci (mudroljub)
+
+
+To je jedan nacin
+Za sad koristi njega jer je laksi.
+
+Posto sad imas 1 projekat, ovako ce ti izgledati interfejs.
+Sad ako hoces novi repozitorijum (rep)
+
+Uvek sa initialize readme
+
+Ajde sad da kloniramo na nas komp
+
+konfiguracija se radi samo 1x, tako da to smo sad zavrsili i ne treba vise to da te brine. Osim ako ne budes reinstairao git, ili podesavao na drugom kompu.
+Samo se seti da moras da podesis username i email i google je tu :)
+
+e sad da se vratimo na kloniranje
+
+Znaci kopirali smo url zeljenog repozitorijuma
+idemo u folder gde zelimo da ga kloniramo
+
+to je to...
+
+sad smo skinuli sve sto je trenutno u repozitorijumu..
+
+Sad npr promenimo nesto, i hocemo da to uploadujemo online
+
+Ne bi trebalo ovo da se desava sa username i email
+Valjda se vise neces susreti sa tim u skorije vreme
+
+Znaci prvo radis STAGE TO COMMIT
+PA onda commit
+
+i sad moras to da posaljes online
+odnosno da uradis push
+
+Sta si ti radio crni Nenade :D
+
+aaaa
+
+jel si bio skinuo za 32bitni ili 64bitni?
+oba
+uvek samo za 32bitni, nemas 64bitni 
+
+gde ti skida downloads
+?
+u downloads, 
+thua haghade si bila
+ahahahah
+
+jel imas neko posebno mesto gde cuvas ili moze ovde?
+bilo gde
+
+jako je moguce da je bio problem jer je 64bitni git bio instaliran.. sad cemo da vidimo
+
+Eto ga
+hoces ti da probas sam sad?
+moize ako imas vremena
+
+ajde
+1. napravi novi repozitorijum
+2. kloniraj ga negde, mozes u isti ovaj folder na desktopu
+3. nesto promeni i pushuj na github
+
+ajde, tu sam ako zaglavis
+ok
+kako sad_
+ git clone paste
